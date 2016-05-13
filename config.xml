@@ -19,7 +19,8 @@
   <preference name="android-minSdkVersion" value="14"/>
   <preference name="android-installLocation" value="auto"/>
   
-<gap:plugin name="com.admob.google" source="plugins.cordova.io" version="2.0.14"/>
+
+<plugin name="com.admob.google" spec="4.0.8" source="pgb" />
 	
   <gap:plugin name="org.apache.cordova.battery-status"/>
   <gap:plugin name="org.apache.cordova.media-capture"/>
