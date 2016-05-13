@@ -23,7 +23,7 @@
 <plugin name="com.admob.google" spec="4.0.8" source="pgb" />
 	
   <gap:plugin name="org.apache.cordova.battery-status"/>
-  <gap:plugin name="org.apache.cordova.media-capture"/>
+
   <gap:plugin name="org.apache.cordova.console"/>
 
   <gap:plugin name="org.apache.cordova.device"/>
@@ -31,11 +31,10 @@
   <gap:plugin name="org.apache.cordova.device-orientation"/>
   <gap:plugin name="org.apache.cordova.dialogs"/>
   <gap:plugin name="org.apache.cordova.file"/>
-  <gap:plugin name="org.apache.cordova.file-transfer"/>
 
 
   <gap:plugin name="org.apache.cordova.inappbrowser"/>
-  <gap:plugin name="org.apache.cordova.media"/>
+
   <gap:plugin name="org.apache.cordova.network-information"/>
   <gap:plugin name="org.apache.cordova.splashscreen" source="npm"/> 
 
